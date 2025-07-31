@@ -2,4 +2,4 @@
 
 This is my first git repository 
 <br>
-Author - Harsh Agrawal
+Author - Harsh Agrawal (apna)
